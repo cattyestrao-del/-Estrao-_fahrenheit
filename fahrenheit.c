@@ -6,7 +6,7 @@ int main() {
     float fahrenheit;
     float celsius;
 
-    printf("Write the fahrenheit value: ");
+    printf("Write the fahrenheit value:");
     scanf("%f", &fahrenheit);
 
     // PROCESS
